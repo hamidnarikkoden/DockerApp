@@ -25,3 +25,10 @@ I:\PITS\Samples\docker\DockerApp\GitRepo\EMS.Core\obj\Debug\netcoreapp3.1\EMS.Co
 I:\PITS\Samples\docker\DockerApp\GitRepo\EMS.Core\obj\Debug\netcoreapp3.1\staticwebassets\EMS.Core.StaticWebAssets.Manifest.cache
 I:\PITS\Samples\docker\DockerApp\GitRepo\EMS.Core\obj\Debug\netcoreapp3.1\staticwebassets\EMS.Core.StaticWebAssets.xml
 I:\PITS\Samples\docker\DockerApp\GitRepo\EMS.Core\obj\Debug\netcoreapp3.1\EMS.Core.genruntimeconfig.cache
+I:\PITS\Samples\docker\DockerApp\GitRepo\obj\Debug\netcoreapp3.1\EMS.Core.csprojAssemblyReference.cache
+I:\PITS\Samples\docker\DockerApp\GitRepo\obj\Debug\netcoreapp3.1\EMS.Core.AssemblyInfoInputs.cache
+I:\PITS\Samples\docker\DockerApp\GitRepo\obj\Debug\netcoreapp3.1\EMS.Core.AssemblyInfo.cs
+I:\PITS\Samples\docker\DockerApp\GitRepo\obj\Debug\netcoreapp3.1\EMS.Core.csproj.CoreCompileInputs.cache
+I:\PITS\Samples\docker\DockerApp\GitRepo\obj\Debug\netcoreapp3.1\EMS.Core.MvcApplicationPartsAssemblyInfo.cache
+I:\PITS\Samples\docker\DockerApp\GitRepo\obj\Debug\netcoreapp3.1\EMS.Core.RazorAssemblyInfo.cache
+I:\PITS\Samples\docker\DockerApp\GitRepo\obj\Debug\netcoreapp3.1\EMS.Core.RazorAssemblyInfo.cs
