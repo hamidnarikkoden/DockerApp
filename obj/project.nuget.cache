@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rkx3DtybNyvbyXZiQlupyQnmlB21I+FqpkwroXD2qR10uBM42TD6jvU06upzqXun3Ys72EkXR6V3Tz1LXVZndw==",
+  "success": true,
+  "projectFilePath": "I:\\PITS\\Samples\\docker\\DockerApp\\GitRepo\\EMS.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamid\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
